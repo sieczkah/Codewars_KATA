@@ -8,7 +8,7 @@ CodeWars is a platform with programming challenges.
 START 31.01.2021
 |**DAYS**|**`29`**|
 |--------|--------|
-|**KATA**|**`141`**|
+|**KATA**|**`145`**|
 
 ## [My Codewars Profile](https://www.codewars.com/users/Opi94)
 
