@@ -6,9 +6,9 @@ CodeWars is a platform with programming challenges.
 [More about the Codewars on Wikipedia](https://en.wikipedia.org/wiki/Codewars)
 
 START 31.01.2021
-|**DAYS**|**`29`**|
+|**DAYS**|**`30`**|
 |--------|--------|
-|**KATA**|**`145`**|
+|**KATA**|**`150`**|
 
 ## [My Codewars Profile](https://www.codewars.com/users/Opi94)
 
